@@ -149,12 +149,13 @@ nav .logo img {
     align-items: center;
 } */
 .home-container {
-    /* display: flex;
+    display: flex;
     justify-content: space-between;
-    flex-wrap: wrap; */
+    flex-wrap: wrap;
     align-items: center;
+    /* align-items: center;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(350px, auto)); */
     grid-gap: 50px;
 }
 
