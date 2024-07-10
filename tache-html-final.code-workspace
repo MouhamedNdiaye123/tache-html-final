@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Desktop/BAKELI/atelie/TACHE4/bakeli_tech/test/incription"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
